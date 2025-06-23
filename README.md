@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1059388664225992737)](https://discord.com/users/1059388664225992737)
+
 ![](https://raw.githubusercontent.com/shisisan/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shisisan&theme=dark&layout=compact)
