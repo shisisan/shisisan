@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shisisan&theme=dark&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=shisisan&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shisisan&theme=dark&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=shisisan&theme=dark)](https://git.io/streak-stats)
